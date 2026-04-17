@@ -1,10 +1,9 @@
 Any improvement or suggestion is welcomed here! I did my best  :)
 
 
-:q
-exit()
+
 ## Live Interactive Map
-**View the map here:** https://prakash023.github.io/GNSS-Smoothing-with-DCE---Potsdamer-Platz/
+ https://prakash023.github.io/GNSS-Smoothing-with-DCE---Potsdamer-Platz/
 
 ## Results
 - Raw GNSS RMSE: 5.88 m
